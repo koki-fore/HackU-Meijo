@@ -9,6 +9,9 @@ git clone <URL>
 ```
 
 ### Setup
+```bash
+cd vite-project
+```
 Various install
 ```bash
 npm install

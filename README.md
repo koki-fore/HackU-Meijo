@@ -1,9 +1,25 @@
-# docker-practice
+# vite-practice
 
-### viteで環境構築
-### ESlintでCI
+## viteで環境構築
+## ESlintでCI
 
-# Cloneした後
+### clone
+```bash
+git clone <URL>
+```
 
-### npm install
-### npm run dev
+### Setup
+Various install
+```bash
+npm install
+```
+Run server
+```bash
+npm run dev
+```
+
+### Tips
+typesyncを入れていないと ```npm install```ではじかれる
+```bash
+npm install -g typesync
+```
